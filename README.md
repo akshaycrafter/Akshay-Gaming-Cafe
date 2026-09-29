@@ -1,6 +1,6 @@
 # Akshay Gaming Cafe — Landing Page
 
-A cinematic single-page site for a gaming cafe built around one idea: gamers don't want to read a brochure, they want to see the setup and book a seat.
+A cinematic single-page site for a gaming cafe built around one idea: gamers don't want to read a brochure, they want to see the setup and book a seat. This is a fictional demo website.
 
 🔗 **Live:** https://fragg-gaming-cafe.akshaycodecrafter.workers.dev/
 
@@ -23,7 +23,7 @@ A cinematic single-page site for a gaming cafe built around one idea: gamers don
 
 ## About
 
-Akshay Gaming Cafe is a concept landing page for a high-end gaming cafe — the kind of place with 240Hz rigs, dedicated console bays, and a library that runs deeper than the usual FIFA-and-Valorant rotation. I wanted the page itself to feel like walking into the place: dark theme, glowing accents, a hero that leads straight into the games library instead of a wall of marketing copy. No sign-up forms, no dashboards — just enough to get someone from "curious" to "booked" in a couple of taps.
+Akshay Gaming Cafe is a concept landing page for a high-end gaming cafe — the kind of place with 240Hz rigs, dedicated console bays, and a library that runs deeper than the usual football-and-Valorant rotation. I wanted the page itself to feel like walking into the place: dark theme, glowing accents, a hero that leads straight into the games library instead of a wall of marketing copy. No sign-up forms, no dashboards — just enough to get someone from "curious" to "booked" in a couple of taps.
 
 ## What's on the page
 
