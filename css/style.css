@@ -1,5 +1,5 @@
 /* =========================================================
-   FRAGG — main.css (tokens, reset, type, layout)
+   Akshay Gaming Cafe — main.css (tokens, reset, type, layout)
    ========================================================= */
 :root {
   --bg:           #0f1115;
@@ -126,7 +126,7 @@ p  { margin: 0; color: var(--text-soft); }
 }
 
 /* =========================================================
-   FRAGG — components.css (nav, hero, cards, footer, etc)
+   Akshay Gaming Cafe — components.css (nav, hero, cards, footer, etc)
    ========================================================= */
 .nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 100;
@@ -446,7 +446,7 @@ p  { margin: 0; color: var(--text-soft); }
 .whatsapp__label { display: none; }
 @media (min-width: 640px) { .whatsapp__label { display: inline; } }
 /* =========================================================
-   FRAGG — animations.css
+   Akshay Gaming Cafe — animations.css
    ========================================================= */
 .animate-fade-in { opacity: 0; animation: fadeIn 0.8s var(--ease-out) forwards; }
 .delay-100 { animation-delay: 0.1s; }
@@ -465,7 +465,7 @@ html.js .reveal:not(.is-in) { animation: revealIn 700ms var(--ease-out) 1.5s bot
 @keyframes marquee { from { transform: translate3d(0, 0, 0); } to { transform: translate3d(-50%, 0, 0); } }
 
 /* =========================================================
-   FRAGG — mobile.css (phone + small tablet overrides)
+   Akshay Gaming Cafe — mobile.css (phone + small tablet overrides)
    ========================================================= */
 * { -webkit-tap-highlight-color: transparent; }
 html { -webkit-text-size-adjust: 100%; }
