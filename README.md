@@ -6,11 +6,11 @@ A cinematic single-page site for a gaming cafe built around one idea: gamers don
 
 ## Preview
 
-![Hero section showing station count, booking status, and game marquee](assets/preview-1-hero.png)
-*Dark-themed hero with glowing accents, live station count, and scrolling game marquee.*
+![Hero section with the Demo Website badge, station count, booking status, and popular titles strip](assets/preview-1-hero.png)
+*Dark-themed hero with a Demo Website badge, glowing accents, station count, and a scrolling strip of popular titles.*
 
-![Games library grid with cover art cards for GTA V, God of War, Spider-Man 2, and more](assets/preview-2-games.png)
-*Cover art grid displaying the full game library with genre tags and hover effects.*
+![Games library grid with cards for GTA V, God of War, Forza Horizon 5, Spider-Man 2, and more](assets/preview-2-games.png)
+*Game library grid with genre tags, hover effects, and a "Now playing" marquee.*
 
 ![Station tiers showing Standard, Pro, and VIP Bay pricing and specs](assets/preview-3-stations.png)
 *Three-tier station cards with hardware specs, pricing, and booking buttons.*
@@ -18,8 +18,8 @@ A cinematic single-page site for a gaming cafe built around one idea: gamers don
 ![Pricing toggle between hourly and subscription plans](assets/preview-4-pricing.png)
 *Pricing section with hourly and monthly subscription plan options.*
 
-![Booking section with WhatsApp and phone call options](assets/preview-5-booking.png)
-*Direct WhatsApp and call booking links for quick session reservation.*
+![Booking section with demo WhatsApp and call buttons](assets/preview-5-booking.png)
+*Demo WhatsApp and call buttons for quick session reservation. Placeholders only, no real contact details.*
 
 ## About
 
@@ -28,8 +28,8 @@ Akshay Gaming Cafe is a concept landing page for a high-end gaming cafe — the 
 ## What's on the page
 
 - **Hero** — the pitch in one screen: stations, refresh rate, title count, tonight's booking status
-- **Trusted by marquee** — a scrolling strip of the titles in rotation (GTA V, God of War, Forza Horizon 5, and more)
-- **Games grid** — cover art cards for the current library
+- **Popular titles** — a scrolling strip of the titles in rotation (GTA V, God of War, Forza Horizon 5, and more)
+- **Games grid** — game cards for the current library
 - **Stations** — Standard / Pro / VIP Bay tiers with per-hour pricing and specs
 - **Gallery** — photos of the floor, the rigs, the peripherals
 - **FAQ** — the questions people actually ask before showing up
