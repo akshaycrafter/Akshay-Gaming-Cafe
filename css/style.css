@@ -144,9 +144,9 @@ p  { margin: 0; color: var(--text-soft); }
 }
 .nav__brand { display: inline-flex; align-items: center; gap: 10px; font-family: var(--font-disp); font-weight: 700; letter-spacing: -0.02em; color: var(--text); }
 .nav__logo { width: 22px; height: 22px; color: var(--accent); }
-.nav__name { font-size: 18px; }
+.nav__name { font-size: 18px; white-space: nowrap; }
 .nav__dot { color: var(--accent); }
-.nav__links { display: none; gap: 28px; font-size: 14px; color: var(--text-soft); }
+.nav__links { display: none; gap: 20px; font-size: 14px; color: var(--text-soft); }
 .nav__links a { position: relative; padding: 4px 0; transition: color var(--t-fast) var(--ease-out); }
 .nav__links a::after { content: ""; position: absolute; left: 0; bottom: 0; width: 0; height: 1px; background: var(--accent); transition: width var(--t-base) var(--ease-out); }
 .nav__links a:hover { color: var(--text); }
